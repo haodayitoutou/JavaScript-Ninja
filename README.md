@@ -1,5 +1,6 @@
 # Secrets of JavaScript Ninja
 
+
 ## Chapter 3
 函数是代码执行的主要模块化单元  
 First-class object
